@@ -1,0 +1,28 @@
+----- Consulta 1-----
+asignar
+----- Consulta 2-----
+asignar
+----- Consulta 3-----
+False
+----- Consulta 4-----
+asignar
+----- Consulta 5-----
+asignar
+----- Consulta 6-----
+2500.759466337619
+----- Consulta 7-----
+0.05559361818635885
+----- Consulta 8-----
+1249.9998915992685
+----- Consulta 9-----
+graficar
+----- Consulta 10-----
+largo de rango es distinto a columna
+----- Consulta 11-----
+asignar
+----- Consulta 12-----
+True
+----- Consulta 13-----
+largo de rango es distinto a columna
+----- Consulta 14-----
+graficar

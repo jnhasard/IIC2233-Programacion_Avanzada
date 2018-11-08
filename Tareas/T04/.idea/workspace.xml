@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e097a6c8-273c-4c32-8edb-d467e1714f68" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="T04" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DES.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DES.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="367" column="25" lean-forward="false" selection-start-line="367" selection-start-column="25" selection-end-line="367" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+                <element signature="e#123#863#0" expanded="false" />
+                <element signature="e#336#812#0" expanded="false" />
+                <element signature="e#845#863#0" expanded="false" />
+                <element signature="e#1071#3192#0" expanded="false" />
+                <element signature="e#3242#3878#0" expanded="false" />
+                <element signature="e#3949#4252#0" expanded="false" />
+                <element signature="e#4308#5007#0" expanded="false" />
+                <element signature="e#5077#6173#0" expanded="false" />
+                <element signature="e#6231#7116#0" expanded="false" />
+                <element signature="e#7169#7340#0" expanded="false" />
+                <element signature="e#7398#8435#0" expanded="false" />
+                <element signature="e#8491#9374#0" expanded="false" />
+                <element signature="e#9429#10922#0" expanded="false" />
+                <element signature="e#10976#11463#0" expanded="false" />
+                <element signature="e#11497#11556#0" expanded="false" />
+                <element signature="e#11579#12928#0" expanded="false" />
+                <element signature="e#11682#11982#0" expanded="false" />
+                <element signature="e#12034#12819#0" expanded="false" />
+                <element signature="e#12852#12928#0" expanded="false" />
+                <element signature="e#12951#13614#0" expanded="false" />
+                <element signature="e#13046#13399#0" expanded="false" />
+                <element signature="e#13443#13562#0" expanded="false" />
+                <element signature="e#13596#13614#0" expanded="false" />
+                <element signature="e#13635#13691#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Simulacion.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Simulacion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="52" column="46" lean-forward="false" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+                <element signature="e#1902#2280#0" expanded="false" />
+                <element signature="e#2328#3157#0" expanded="false" />
+                <element signature="e#3887#6368#0" expanded="false" />
+                <element signature="e#6414#7291#0" expanded="false" />
+                <element signature="e#7339#8261#0" expanded="false" />
+                <element signature="e#8334#12739#0" expanded="false" />
+                <element signature="e#12772#13905#0" expanded="false" />
+                <element signature="e#13935#18358#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1536">
+              <caret line="123" column="31" lean-forward="false" selection-start-line="123" selection-start-column="31" selection-end-line="123" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#74#0" expanded="true" />
+                <element signature="e#223#438#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lectura_csv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lectura_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="83" lean-forward="false" selection-start-line="27" selection-start-column="83" selection-end-line="27" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contenidos.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contenidos.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="escenarios.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/escenarios.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="integrantes.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integrantes.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2625">
+              <caret line="175" column="17" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>eventos</find>
+      <find>conocimientos</find>
+      <find>catedra</find>
+      <find>self.numerox</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fjdsk.py" />
+        <option value="$PROJECT_DIR$/contenidos.csv" />
+        <option value="$PROJECT_DIR$/integrantes.csv" />
+        <option value="$PROJECT_DIR$/lectura csv.py" />
+        <option value="$PROJECT_DIR$/escenarios.csv" />
+        <option value="$PROJECT_DIR$/lectura_csv.py" />
+        <option value="$PROJECT_DIR$/DES.py" />
+        <option value="$PROJECT_DIR$/Simulacion.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="DES" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T04" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DES.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Simulacion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T04" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simulacion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T04" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="lectura csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T04" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lectura csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="lectura_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T04" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lectura_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T04" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T04" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T04" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T04" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.DES" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Simulacion" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main" />
+      <item index="3" class="java.lang.String" itemvalue="Python.lectura csv" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lectura_csv" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.lectura_csv" />
+        <item index="2" class="java.lang.String" itemvalue="Python.lectura csv" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Simulacion" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DES" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e097a6c8-273c-4c32-8edb-d467e1714f68" name="Default" comment="" />
+      <created>1494883705654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494883705654</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26180258" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41566265" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="33" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/escenarios.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrantes.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simulacion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="172" column="34" lean-forward="false" selection-start-line="172" selection-start-column="34" selection-end-line="172" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#1902#2280#0" expanded="false" />
+            <element signature="e#2328#3157#0" expanded="false" />
+            <element signature="e#3887#6368#0" expanded="false" />
+            <element signature="e#6414#7291#0" expanded="false" />
+            <element signature="e#7339#8261#0" expanded="false" />
+            <element signature="e#8334#12739#0" expanded="false" />
+            <element signature="e#12772#13905#0" expanded="false" />
+            <element signature="e#13935#18358#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#123#863#0" expanded="false" />
+            <element signature="e#336#812#0" expanded="false" />
+            <element signature="e#845#863#0" expanded="false" />
+            <element signature="e#1071#3192#0" expanded="false" />
+            <element signature="e#3242#3878#0" expanded="false" />
+            <element signature="e#3949#4252#0" expanded="false" />
+            <element signature="e#4308#5007#0" expanded="false" />
+            <element signature="e#5077#6173#0" expanded="false" />
+            <element signature="e#6231#7116#0" expanded="false" />
+            <element signature="e#7169#7340#0" expanded="false" />
+            <element signature="e#7398#8435#0" expanded="false" />
+            <element signature="e#8491#9374#0" expanded="false" />
+            <element signature="e#9429#10922#0" expanded="false" />
+            <element signature="e#10976#11463#0" expanded="false" />
+            <element signature="e#11497#11556#0" expanded="false" />
+            <element signature="e#11579#12928#0" expanded="false" />
+            <element signature="e#11682#11982#0" expanded="false" />
+            <element signature="e#12034#12819#0" expanded="false" />
+            <element signature="e#12852#12928#0" expanded="false" />
+            <element signature="e#12951#13614#0" expanded="false" />
+            <element signature="e#13046#13399#0" expanded="false" />
+            <element signature="e#13443#13562#0" expanded="false" />
+            <element signature="e#13596#13614#0" expanded="false" />
+            <element signature="e#13635#13691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contenidos.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fjdsk.py" />
+    <entry file="file://$PROJECT_DIR$/escenarios.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrantes.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simulacion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="172" column="34" lean-forward="true" selection-start-line="172" selection-start-column="34" selection-end-line="172" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#1902#2280#0" expanded="false" />
+            <element signature="e#2328#3157#0" expanded="false" />
+            <element signature="e#3887#6368#0" expanded="false" />
+            <element signature="e#6414#7291#0" expanded="false" />
+            <element signature="e#7339#8261#0" expanded="false" />
+            <element signature="e#8334#12739#0" expanded="false" />
+            <element signature="e#12772#13905#0" expanded="false" />
+            <element signature="e#13935#18358#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#123#863#0" expanded="false" />
+            <element signature="e#336#812#0" expanded="false" />
+            <element signature="e#845#863#0" expanded="false" />
+            <element signature="e#1071#3192#0" expanded="false" />
+            <element signature="e#3242#3878#0" expanded="false" />
+            <element signature="e#3949#4252#0" expanded="false" />
+            <element signature="e#4308#5007#0" expanded="false" />
+            <element signature="e#5077#6173#0" expanded="false" />
+            <element signature="e#6231#7116#0" expanded="false" />
+            <element signature="e#7169#7340#0" expanded="false" />
+            <element signature="e#7398#8435#0" expanded="false" />
+            <element signature="e#8491#9374#0" expanded="false" />
+            <element signature="e#9429#10922#0" expanded="false" />
+            <element signature="e#10976#11463#0" expanded="false" />
+            <element signature="e#11497#11556#0" expanded="false" />
+            <element signature="e#11579#12928#0" expanded="false" />
+            <element signature="e#11682#11982#0" expanded="false" />
+            <element signature="e#12034#12819#0" expanded="false" />
+            <element signature="e#12852#12928#0" expanded="false" />
+            <element signature="e#12951#13614#0" expanded="false" />
+            <element signature="e#13046#13399#0" expanded="false" />
+            <element signature="e#13443#13562#0" expanded="false" />
+            <element signature="e#13596#13614#0" expanded="false" />
+            <element signature="e#13635#13691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contenidos.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fjdsk.py" />
+    <entry file="file://$PROJECT_DIR$/escenarios.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrantes.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simulacion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="148" column="185" lean-forward="false" selection-start-line="148" selection-start-column="185" selection-end-line="148" selection-end-column="185" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#1902#2280#0" expanded="false" />
+            <element signature="e#2328#3157#0" expanded="false" />
+            <element signature="e#3887#6368#0" expanded="false" />
+            <element signature="e#6414#7291#0" expanded="false" />
+            <element signature="e#7339#8261#0" expanded="false" />
+            <element signature="e#8334#12739#0" expanded="false" />
+            <element signature="e#12772#13905#0" expanded="false" />
+            <element signature="e#13935#18358#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="65" column="64" lean-forward="false" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#123#863#0" expanded="false" />
+            <element signature="e#336#812#0" expanded="false" />
+            <element signature="e#845#863#0" expanded="false" />
+            <element signature="e#1071#3192#0" expanded="false" />
+            <element signature="e#3242#3878#0" expanded="false" />
+            <element signature="e#3949#4252#0" expanded="false" />
+            <element signature="e#4308#5007#0" expanded="false" />
+            <element signature="e#5077#6173#0" expanded="false" />
+            <element signature="e#6231#7116#0" expanded="false" />
+            <element signature="e#7169#7340#0" expanded="false" />
+            <element signature="e#7398#8435#0" expanded="false" />
+            <element signature="e#8491#9374#0" expanded="false" />
+            <element signature="e#9429#10922#0" expanded="false" />
+            <element signature="e#10976#11463#0" expanded="false" />
+            <element signature="e#11497#11556#0" expanded="false" />
+            <element signature="e#11579#12928#0" expanded="false" />
+            <element signature="e#11682#11982#0" expanded="false" />
+            <element signature="e#12034#12819#0" expanded="false" />
+            <element signature="e#12852#12928#0" expanded="false" />
+            <element signature="e#12951#13614#0" expanded="false" />
+            <element signature="e#13046#13399#0" expanded="false" />
+            <element signature="e#13443#13562#0" expanded="false" />
+            <element signature="e#13596#13614#0" expanded="false" />
+            <element signature="e#13635#13691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contenidos.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fjdsk.py" />
+    <entry file="file://$PROJECT_DIR$/escenarios.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrantes.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simulacion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="94" column="45" lean-forward="false" selection-start-line="94" selection-start-column="45" selection-end-line="94" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#1902#2280#0" expanded="false" />
+            <element signature="e#2328#3157#0" expanded="false" />
+            <element signature="e#3887#6368#0" expanded="false" />
+            <element signature="e#6414#7291#0" expanded="false" />
+            <element signature="e#7339#8261#0" expanded="false" />
+            <element signature="e#8334#12739#0" expanded="false" />
+            <element signature="e#12772#13905#0" expanded="false" />
+            <element signature="e#13935#18358#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="122" column="35" lean-forward="false" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#123#863#0" expanded="false" />
+            <element signature="e#336#812#0" expanded="false" />
+            <element signature="e#845#863#0" expanded="false" />
+            <element signature="e#1071#3192#0" expanded="false" />
+            <element signature="e#3242#3878#0" expanded="false" />
+            <element signature="e#3949#4252#0" expanded="false" />
+            <element signature="e#4308#5007#0" expanded="false" />
+            <element signature="e#5077#6173#0" expanded="false" />
+            <element signature="e#6231#7116#0" expanded="false" />
+            <element signature="e#7169#7340#0" expanded="false" />
+            <element signature="e#7398#8435#0" expanded="false" />
+            <element signature="e#8491#9374#0" expanded="false" />
+            <element signature="e#9429#10922#0" expanded="false" />
+            <element signature="e#10976#11463#0" expanded="false" />
+            <element signature="e#11497#11556#0" expanded="false" />
+            <element signature="e#11579#12928#0" expanded="false" />
+            <element signature="e#11682#11982#0" expanded="false" />
+            <element signature="e#12034#12819#0" expanded="false" />
+            <element signature="e#12852#12928#0" expanded="false" />
+            <element signature="e#12951#13614#0" expanded="false" />
+            <element signature="e#13046#13399#0" expanded="false" />
+            <element signature="e#13443#13562#0" expanded="false" />
+            <element signature="e#13596#13614#0" expanded="false" />
+            <element signature="e#13635#13691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fjdsk.py" />
+    <entry file="file://$PROJECT_DIR$/escenarios.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrantes.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simulacion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="92" column="22" lean-forward="false" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#1902#2280#0" expanded="false" />
+            <element signature="e#2328#3157#0" expanded="false" />
+            <element signature="e#3887#6368#0" expanded="false" />
+            <element signature="e#6414#7291#0" expanded="false" />
+            <element signature="e#7339#8261#0" expanded="false" />
+            <element signature="e#8334#12739#0" expanded="false" />
+            <element signature="e#12772#13905#0" expanded="false" />
+            <element signature="e#13935#18358#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#123#863#0" expanded="false" />
+            <element signature="e#336#812#0" expanded="false" />
+            <element signature="e#845#863#0" expanded="false" />
+            <element signature="e#1071#3192#0" expanded="false" />
+            <element signature="e#3242#3878#0" expanded="false" />
+            <element signature="e#3949#4252#0" expanded="false" />
+            <element signature="e#4308#5007#0" expanded="false" />
+            <element signature="e#5077#6173#0" expanded="false" />
+            <element signature="e#6231#7116#0" expanded="false" />
+            <element signature="e#7169#7340#0" expanded="false" />
+            <element signature="e#7398#8435#0" expanded="false" />
+            <element signature="e#8491#9374#0" expanded="false" />
+            <element signature="e#9429#10922#0" expanded="false" />
+            <element signature="e#10976#11463#0" expanded="false" />
+            <element signature="e#11497#11556#0" expanded="false" />
+            <element signature="e#11579#12928#0" expanded="false" />
+            <element signature="e#11682#11982#0" expanded="false" />
+            <element signature="e#12034#12819#0" expanded="false" />
+            <element signature="e#12852#12928#0" expanded="false" />
+            <element signature="e#12951#13614#0" expanded="false" />
+            <element signature="e#13046#13399#0" expanded="false" />
+            <element signature="e#13443#13562#0" expanded="false" />
+            <element signature="e#13596#13614#0" expanded="false" />
+            <element signature="e#13635#13691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simulacion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#1902#2280#0" expanded="false" />
+            <element signature="e#2328#3157#0" expanded="false" />
+            <element signature="e#3887#6368#0" expanded="false" />
+            <element signature="e#6414#7291#0" expanded="false" />
+            <element signature="e#7339#8261#0" expanded="false" />
+            <element signature="e#8334#12739#0" expanded="false" />
+            <element signature="e#12772#13905#0" expanded="false" />
+            <element signature="e#13935#18358#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fjdsk.py" />
+    <entry file="file://$PROJECT_DIR$/WhatsApp Image 2017-05-17 at 02.41.27.jpeg" />
+    <entry file="file://$PROJECT_DIR$/parametros.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/escenarios.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrantes.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#123#863#0" expanded="false" />
+            <element signature="e#336#812#0" expanded="false" />
+            <element signature="e#845#863#0" expanded="false" />
+            <element signature="e#1071#3192#0" expanded="false" />
+            <element signature="e#3242#3878#0" expanded="false" />
+            <element signature="e#3949#4252#0" expanded="false" />
+            <element signature="e#4308#5007#0" expanded="false" />
+            <element signature="e#5077#6173#0" expanded="false" />
+            <element signature="e#6231#7116#0" expanded="false" />
+            <element signature="e#7169#7340#0" expanded="false" />
+            <element signature="e#7398#8435#0" expanded="false" />
+            <element signature="e#8491#9374#0" expanded="false" />
+            <element signature="e#9429#10922#0" expanded="false" />
+            <element signature="e#10976#11463#0" expanded="false" />
+            <element signature="e#11497#11556#0" expanded="false" />
+            <element signature="e#11579#12928#0" expanded="false" />
+            <element signature="e#11682#11982#0" expanded="false" />
+            <element signature="e#12034#12819#0" expanded="false" />
+            <element signature="e#12852#12928#0" expanded="false" />
+            <element signature="e#12951#13614#0" expanded="false" />
+            <element signature="e#13046#13399#0" expanded="false" />
+            <element signature="e#13443#13562#0" expanded="false" />
+            <element signature="e#13596#13614#0" expanded="false" />
+            <element signature="e#13635#13691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/escenarios.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrantes.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#123#863#0" expanded="false" />
+            <element signature="e#336#812#0" expanded="false" />
+            <element signature="e#845#863#0" expanded="false" />
+            <element signature="e#1071#3192#0" expanded="false" />
+            <element signature="e#3242#3878#0" expanded="false" />
+            <element signature="e#3949#4252#0" expanded="false" />
+            <element signature="e#4308#5007#0" expanded="false" />
+            <element signature="e#5077#6173#0" expanded="false" />
+            <element signature="e#6231#7116#0" expanded="false" />
+            <element signature="e#7169#7340#0" expanded="false" />
+            <element signature="e#7398#8435#0" expanded="false" />
+            <element signature="e#8491#9374#0" expanded="false" />
+            <element signature="e#9429#10922#0" expanded="false" />
+            <element signature="e#10976#11463#0" expanded="false" />
+            <element signature="e#11497#11556#0" expanded="false" />
+            <element signature="e#11579#12928#0" expanded="false" />
+            <element signature="e#11682#11982#0" expanded="false" />
+            <element signature="e#12034#12819#0" expanded="false" />
+            <element signature="e#12852#12928#0" expanded="false" />
+            <element signature="e#12951#13614#0" expanded="false" />
+            <element signature="e#13046#13399#0" expanded="false" />
+            <element signature="e#13443#13562#0" expanded="false" />
+            <element signature="e#13596#13614#0" expanded="false" />
+            <element signature="e#13635#13691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/escenarios.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrantes.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#123#863#0" expanded="false" />
+            <element signature="e#336#812#0" expanded="false" />
+            <element signature="e#845#863#0" expanded="false" />
+            <element signature="e#1071#3192#0" expanded="false" />
+            <element signature="e#3242#3878#0" expanded="false" />
+            <element signature="e#3949#4252#0" expanded="false" />
+            <element signature="e#4308#5007#0" expanded="false" />
+            <element signature="e#5077#6173#0" expanded="false" />
+            <element signature="e#6231#7116#0" expanded="false" />
+            <element signature="e#7169#7340#0" expanded="false" />
+            <element signature="e#7398#8435#0" expanded="false" />
+            <element signature="e#8491#9374#0" expanded="false" />
+            <element signature="e#9429#10922#0" expanded="false" />
+            <element signature="e#10976#11463#0" expanded="false" />
+            <element signature="e#11497#11556#0" expanded="false" />
+            <element signature="e#11579#12928#0" expanded="false" />
+            <element signature="e#11682#11982#0" expanded="false" />
+            <element signature="e#12034#12819#0" expanded="false" />
+            <element signature="e#12852#12928#0" expanded="false" />
+            <element signature="e#12951#13614#0" expanded="false" />
+            <element signature="e#13046#13399#0" expanded="false" />
+            <element signature="e#13443#13562#0" expanded="false" />
+            <element signature="e#13596#13614#0" expanded="false" />
+            <element signature="e#13635#13691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WhatsApp Image 2017-05-17 at 02.41.27.jpeg" />
+    <entry file="file://$PROJECT_DIR$/fjdsk.py" />
+    <entry file="file://$PROJECT_DIR$/parametros.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrantes.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="175" column="17" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectura csv.py" />
+    <entry file="file://$PROJECT_DIR$/contenidos.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/escenarios.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="367" column="25" lean-forward="false" selection-start-line="367" selection-start-column="25" selection-end-line="367" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#123#863#0" expanded="false" />
+            <element signature="e#336#812#0" expanded="false" />
+            <element signature="e#845#863#0" expanded="false" />
+            <element signature="e#1071#3192#0" expanded="false" />
+            <element signature="e#3242#3878#0" expanded="false" />
+            <element signature="e#3949#4252#0" expanded="false" />
+            <element signature="e#4308#5007#0" expanded="false" />
+            <element signature="e#5077#6173#0" expanded="false" />
+            <element signature="e#6231#7116#0" expanded="false" />
+            <element signature="e#7169#7340#0" expanded="false" />
+            <element signature="e#7398#8435#0" expanded="false" />
+            <element signature="e#8491#9374#0" expanded="false" />
+            <element signature="e#9429#10922#0" expanded="false" />
+            <element signature="e#10976#11463#0" expanded="false" />
+            <element signature="e#11497#11556#0" expanded="false" />
+            <element signature="e#11579#12928#0" expanded="false" />
+            <element signature="e#11682#11982#0" expanded="false" />
+            <element signature="e#12034#12819#0" expanded="false" />
+            <element signature="e#12852#12928#0" expanded="false" />
+            <element signature="e#12951#13614#0" expanded="false" />
+            <element signature="e#13046#13399#0" expanded="false" />
+            <element signature="e#13443#13562#0" expanded="false" />
+            <element signature="e#13596#13614#0" expanded="false" />
+            <element signature="e#13635#13691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectura_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="83" lean-forward="false" selection-start-line="27" selection-start-column="83" selection-end-line="27" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simulacion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="52" column="46" lean-forward="false" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#1902#2280#0" expanded="false" />
+            <element signature="e#2328#3157#0" expanded="false" />
+            <element signature="e#3887#6368#0" expanded="false" />
+            <element signature="e#6414#7291#0" expanded="false" />
+            <element signature="e#7339#8261#0" expanded="false" />
+            <element signature="e#8334#12739#0" expanded="false" />
+            <element signature="e#12772#13905#0" expanded="false" />
+            <element signature="e#13935#18358#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1536">
+          <caret line="123" column="31" lean-forward="false" selection-start-line="123" selection-start-column="31" selection-end-line="123" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#74#0" expanded="true" />
+            <element signature="e#223#438#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
